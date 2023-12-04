@@ -8,6 +8,7 @@ automation scripts to speed up processes
 -   [ ] pr leader board
 -   [ ] pr counter
 -   [ ] commit counter
--   [ ] git create branch
+-   [ ] git create branch from feature
+-   [ ] git create branch from master
 -   [ ] git create pull request
 -   [ ] clean all local branches
