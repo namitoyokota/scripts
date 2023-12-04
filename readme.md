@@ -10,3 +10,4 @@ automation scripts to speed up processes
 -   [ ] commit counter
 -   [ ] git create branch
 -   [ ] git create pull request
+-   [ ] clean all local branches
